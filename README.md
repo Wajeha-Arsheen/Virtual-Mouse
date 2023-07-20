@@ -13,12 +13,8 @@
 
 To setup the system for development on your local machine, please follow the instructions below:
 
-1. Clone the repository to your machine
+## Execution
 
-   ```bash
-   git clone https://github.com/ravigithub19/ai-virtual-mouse.git
-   ```
-
-2. Run the ```AIVirtualMouse.py``` python file.
+ Run the ```AIVirtualMouse.py``` python file.
    
 
